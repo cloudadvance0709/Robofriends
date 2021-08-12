@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/cloudadvance0709/The-Robofriends.git/static/css/main.fab3d53e.chunk.css",
+    "main.js": "/cloudadvance0709/The-Robofriends.git/static/js/main.637cdf59.chunk.js",
+    "main.js.map": "/cloudadvance0709/The-Robofriends.git/static/js/main.637cdf59.chunk.js.map",
+    "runtime-main.js": "/cloudadvance0709/The-Robofriends.git/static/js/runtime-main.6d185566.js",
+    "runtime-main.js.map": "/cloudadvance0709/The-Robofriends.git/static/js/runtime-main.6d185566.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/cloudadvance0709/The-Robofriends.git/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.1efe70f0.chunk.js": "/cloudadvance0709/The-Robofriends.git/static/js/2.1efe70f0.chunk.js",
+    "static/js/2.1efe70f0.chunk.js.map": "/cloudadvance0709/The-Robofriends.git/static/js/2.1efe70f0.chunk.js.map",
+    "static/js/3.0f4a524b.chunk.js": "/cloudadvance0709/The-Robofriends.git/static/js/3.0f4a524b.chunk.js",
+    "static/js/3.0f4a524b.chunk.js.map": "/cloudadvance0709/The-Robofriends.git/static/js/3.0f4a524b.chunk.js.map",
+    "index.html": "/cloudadvance0709/The-Robofriends.git/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/cloudadvance0709/The-Robofriends.git/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.fab3d53e.chunk.css.map": "/cloudadvance0709/The-Robofriends.git/static/css/main.fab3d53e.chunk.css.map",
+    "static/js/2.1efe70f0.chunk.js.LICENSE.txt": "/cloudadvance0709/The-Robofriends.git/static/js/2.1efe70f0.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/cloudadvance0709/The-Robofriends.git/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d185566.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.1efe70f0.chunk.js",
+    "static/css/main.fab3d53e.chunk.css",
+    "static/js/main.637cdf59.chunk.js"
+  ]
+}
